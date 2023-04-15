@@ -10,4 +10,7 @@ class Animal:
     def walk(self):
         print(f"{self.name} is walking.")
 
+    def sleep(self):
+        print("I sleep!")
+
 
